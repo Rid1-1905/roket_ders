@@ -2,3 +2,4 @@ zort
 artık benim
 master değişti
 çakıştırıyoz
+masterda devam
