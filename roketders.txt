@@ -1,3 +1,4 @@
 zort
 artık benim
 master değişti
+çakıştırıyoz
